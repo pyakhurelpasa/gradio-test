@@ -1,2 +1,2 @@
-gradio @ git+https://github.com/gradio-app/gradio@releases/tag/v3.41.0
+gradio @ git+https://github.com/gradio-app/gradio@ba4c6d9 
 huggingface_hub
